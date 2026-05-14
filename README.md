@@ -1,6 +1,6 @@
 # LightDocs
 
-LightDocs is a lightweight collaborative document editor built for the Ajaia product-engineering assignment.
+LightDocs is a lightweight collaborative document editor. 
 
 The app is inspired by Google Docs, but intentionally scoped to a focused 4-6 hour product slice: users can create, edit, save, upload, and share documents with seeded test users.
 
